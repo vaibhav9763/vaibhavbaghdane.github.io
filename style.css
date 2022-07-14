@@ -596,6 +596,12 @@ h3.my-profession {
   font-size: 25px;
   color: var(--skin-color);
 }
+/* social media link  */
+.contact .contact-info-item .social-link .fa {
+  font-size: 45px;
+  color: var(--skin-color);
+}
+/* end */
 .contact .contact-info-item h4 {
   font-size: 18px;
   font-weight: 700;
